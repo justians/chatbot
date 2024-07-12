@@ -3,3 +3,4 @@ openai==1.35.10
 serpapi==0.1.5
 requests==2.32.3
 spotipy==2.24.0
+google-search-results
